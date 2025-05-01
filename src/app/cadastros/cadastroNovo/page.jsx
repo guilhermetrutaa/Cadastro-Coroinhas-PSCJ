@@ -36,7 +36,7 @@ export default function Home() {
   return (
     <div className="w-full min-h-screen bg-[#f9f9f9] flex flex-col items-center">
       <div className="pt-20 text-center">
-        <p className="text-[#000] text-[2rem] font-semibold pb-2">Cadastro Novo</p>
+        <p className="text-[#000] text-[2rem] font-semibold pb-2">Cadastro Novato</p>
         <p className="text-[#000] max-w-[20rem] pb-6 mx-auto">
           Preencha os campos abaixo para realizar seu cadastro em nosso sistema
         </p>
