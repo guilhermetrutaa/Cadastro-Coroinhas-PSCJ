@@ -48,7 +48,7 @@ const Page = () => {
             </div>
             
             <div className='flex justify-center items-center'>
-              <button className='px-[3.6rem] py-2 rounded-[10px] bg-[#f9f9f9] border-2 border-[#000] text-[#000] cursor-pointer' onClick={() => router.push('/cadastros/cadastroVelho')}>Sou veterano</button>
+              <button className='px-[3.4rem] py-2 rounded-[10px] bg-[#f9f9f9] border-2 border-[#000] text-[#000] cursor-pointer' onClick={() => router.push('/cadastros/cadastroVelho')}>Sou veterano</button>
             </div>
 
           </div>
