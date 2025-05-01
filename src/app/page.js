@@ -30,7 +30,7 @@ const Page = () => {
 
           <div className='flex justify-center items-center '>
             <video width="300" className='rounded-[10px]' controls>
-              <source src="/videos/meu-video.mp4" type="video/mp4" />
+              <source src="/video.mp4" type="video/mp4" />
               Seu navegador não suporta vídeo HTML5.
             </video>
           </div>
