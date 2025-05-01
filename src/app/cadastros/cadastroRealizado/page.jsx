@@ -14,8 +14,8 @@ const page = () => {
                 alt="Picture of the author"
             />
         </div>
-        <div>
-            <p className='text-[#000] text-[1rem] text-center max-w-[25rem] pt-5 font-light'>Parabéns! Seu cadastro foi enviado e já está em nosso sistema. Agradeçemos a Compreenção!</p>
+        <div className='flex justify-center items-center'>
+            <p className='text-[#000] text-[1rem] text-center max-w-[20rem] pt-5 font-light'>Parabéns! Seu cadastro foi enviado e já está em nosso sistema. Agradeçemos a Compreenção!</p>
         </div>
       </div>
     </div>
