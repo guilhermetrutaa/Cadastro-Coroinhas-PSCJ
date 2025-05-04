@@ -15,7 +15,7 @@ const page = () => {
             />
         </div>
         <div className='flex justify-center items-center'>
-            <p className='text-[#000] text-[1rem] text-center max-w-[20rem] pt-5 font-light'>Parabéns! Seu cadastro foi enviado e já está em nosso sistema. Agradeçemos a Compreenção!</p>
+            <p className='text-[#000] text-[1rem] text-center max-w-[20rem] pt-5 font-light'>Parabéns! Seu cadastro foi enviado e já está em nosso sistema. Agradeçemos a Compreensão!</p>
         </div>
       </div>
     </div>
